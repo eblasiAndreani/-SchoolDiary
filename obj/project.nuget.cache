@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BiMLrot2kvpWqWdpwJ859BmIF+tQVjTpRlIhprwqEzfQczaE6vRuCyHTgAmYDhPySb5BRGcScq06MNDXrFK+OA==",
+  "dgSpecHash": "W+mt1IRcJqs7kUW190rrVEkIlJfuy1nzpunyr02LN8HpgZBF8jQ+SJ0iwynXJPgfHpNDMdJrB9/3LSQ2aozk0Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolVersiones\\School-V-1FK\\School-V-1.csproj",
+  "projectFilePath": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolDiary\\School-V-1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\eblasi\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.14\\microsoft.data.sqlite.core.5.0.14.nupkg.sha512",
     "C:\\Users\\eblasi\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",

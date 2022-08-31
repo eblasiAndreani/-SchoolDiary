@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolVersiones\\School-V-1FK\\School-V-1.csproj": {}
+    "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolDiary\\School-V-1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolVersiones\\School-V-1FK\\School-V-1.csproj": {
+    "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolDiary\\School-V-1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolVersiones\\School-V-1FK\\School-V-1.csproj",
+        "projectUniqueName": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolDiary\\School-V-1.csproj",
         "projectName": "School-V-1",
-        "projectPath": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolVersiones\\School-V-1FK\\School-V-1.csproj",
+        "projectPath": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolDiary\\School-V-1.csproj",
         "packagesPath": "C:\\Users\\eblasi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolVersiones\\School-V-1FK\\obj\\",
+        "outputPath": "C:\\Users\\eblasi\\Documents\\ProyectosTrabajo\\Escuelas 2021\\SchoolDiary\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
